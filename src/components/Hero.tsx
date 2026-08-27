@@ -10,7 +10,7 @@ export default function Hero() {
         </p>
         <img
           src="https://placehold.co/960x640/e2e8f0/475569?text=hero"
-          alt="Golden, flaky biscuits fresh from the oven on a wooden board"
+          alt="A close-up of a golden, flaky biscuit stack on a wooden tray, with butter melting on top"
           className="mt-10 aspect-video w-full rounded-lg border border-border object-cover"
         />
         <a

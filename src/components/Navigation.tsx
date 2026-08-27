@@ -36,22 +36,22 @@ export default function Navigation() {
         <nav className="border-t border-border bg-background px-4 pb-4 pt-2">
           <div className="mx-auto flex max-w-7xl flex-col gap-1 sm:items-end">
             <a
+              href="#hero"
+              className="rounded-md px-3 py-2 text-sm font-medium text-foreground hover:bg-muted sm:text-right"
+            >
+              Home
+            </a>
+            <a
               href="#about"
               className="rounded-md px-3 py-2 text-sm font-medium text-foreground hover:bg-muted sm:text-right"
             >
-              About
+              Our Story
             </a>
             <a
               href="#services"
               className="rounded-md px-3 py-2 text-sm font-medium text-foreground hover:bg-muted sm:text-right"
             >
-              Our Biscuits
-            </a>
-            <a
-              href="#contact"
-              className="rounded-md px-3 py-2 text-sm font-medium text-foreground hover:bg-muted sm:text-right"
-            >
-              Contact
+              Biscuits
             </a>
           </div>
         </nav>

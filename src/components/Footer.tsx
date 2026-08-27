@@ -10,7 +10,7 @@ export default function Footer() {
               Toppers Biscuits
             </span>
             <p className="mt-3 max-w-xs text-sm text-muted-foreground">
-              Freshly baked, homemade-tasting biscuits made with quality ingredients.
+              Freshly baked every morning, with real ingredients and a homemade taste you can trust.
             </p>
           </div>
 
