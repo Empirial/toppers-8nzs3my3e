@@ -3,10 +3,10 @@ export default function Hero() {
     <section className="bg-background">
       <div className="mx-auto flex max-w-5xl flex-col items-center px-4 py-20 text-center sm:py-24 lg:py-28">
         <h1 className="max-w-3xl text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-6xl">
-          Freshly Baked Biscuits, Made with Love
+          Freshly Baked Biscuits, Made with Love in Springfield
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-muted-foreground sm:text-xl">
-          Warm, flaky, and buttery — baked every morning in small batches. Taste the difference real ingredients make.
+          Warm, flaky, and buttery, baked every morning in small batches. Order on WhatsApp for delivery or collection.
         </p>
         <img
           src="https://placehold.co/960x640/e2e8f0/475569?text=hero"
@@ -14,10 +14,10 @@ export default function Hero() {
           className="mt-10 aspect-video w-full rounded-lg border border-border object-cover"
         />
         <a
-          href="/menu"
+          href="https://wa.me/1234567890"
           className="mt-8 inline-flex items-center justify-center rounded-md bg-primary px-8 py-3 text-base font-semibold text-primary-foreground transition-colors hover:opacity-90"
         >
-          Browse Our Biscuits
+          Order on WhatsApp
         </a>
       </div>
     </section>
