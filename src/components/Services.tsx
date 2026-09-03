@@ -5,17 +5,17 @@ export default function Services() {
     {
       Icon: Sparkles,
       title: "Classic Butter Biscuits",
-      description: "Flaky, golden, and melt-in-your-mouth tender. These are the biscuits that started it all, baked fresh every morning with real butter and buttermilk.",
+      description: "R25 for 6. Flaky, golden, and melt-in-your-mouth tender. These are the biscuits that started it all, baked fresh every morning with real butter and buttermilk. Order a batch via WhatsApp and they're ready for collection or delivery.",
     },
     {
       Icon: ShieldCheck,
       title: "Chocolate Chip Biscuits",
-      description: "A sweet twist on a Southern staple, loaded with semi-sweet chocolate chips and a hint of vanilla. Perfect for breakfast, dessert, or any moment in between.",
+      description: "R30 for 6. A sweet twist on a Southern staple, loaded with semi-sweet chocolate chips and a hint of vanilla. Perfect for breakfast, dessert, or any moment in between. Add them to your order on WhatsApp.",
     },
     {
       Icon: Zap,
       title: "Savory & Custom Orders",
-      description: "From cheddar-jalapeño to rosemary-sea salt, we'll craft a batch just for you. Planning a wedding, brunch, or office event? Call us to discuss bulk orders and custom flavors.",
+      description: "From cheddar-jalapeño to rosemary-sea salt, we'll craft a batch just for you. Prices start at R35 for 6, depending on the flavour. Planning a wedding, brunch, or office event? Message us on WhatsApp to discuss bulk orders and custom flavours.",
     },
   ];
 
